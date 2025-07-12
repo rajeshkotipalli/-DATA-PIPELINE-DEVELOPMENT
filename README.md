@@ -85,3 +85,8 @@ It gave me confidence that I can now work on real-world data projects and not ju
 
 This internship task gave me a hands-on look at what happens in real data projects and helped me move from a beginner coder to a problem-solving developer. I’m proud of completing this ETL pipeline, and it's something I can reuse in my future data science projects and even improve further by adding automation, validation, or data visualization.
 
+
+OUTPUT
+<img width="1867" height="885" alt="Image" src="https://github.com/user-attachments/assets/296ff311-2f5a-4b37-acca-1a49c3a036a3" />
+
+
