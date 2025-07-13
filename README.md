@@ -22,7 +22,7 @@ Transforming the data by handling missing values, encoding categorical features,
 
 Loading the cleaned data into a new .csv file — ready for ML models or business intelligence tools
 
-🔧 Tools & Technologies Used:
+ Tools & Technologies Used:
 Python 3
 
 Pandas – for data manipulation and file operations
@@ -33,7 +33,7 @@ Jupyter Notebook / VS Code – for development
 
 CSV files – used as both input and output data sources
 
-📌 Key Features of the ETL Pipeline I Built:
+ Key Features of the ETL Pipeline I Built:
 Used SimpleImputer to handle missing values:
 
 Mean strategy for numerical columns
@@ -50,7 +50,7 @@ Final transformed output was saved using Pandas into a clean .csv file
 
 This pipeline ensures that data is consistent, clean, and ready for any machine learning model or reporting dashboard. It's reusable and scalable — meaning the same script can be used on other datasets with minimal tweaks.
 
-🏢 Where This Task Is Applicable:
+Where This Task Is Applicable:
 Data Science & Machine Learning Projects
 Before you train a model, your data has to be in the right shape. This ETL process prepares it.
 
